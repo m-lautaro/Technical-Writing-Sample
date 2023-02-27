@@ -10,11 +10,17 @@
 <p>The API offers several key features, including:</p>
 
 <ol>
-  Authentication: To ensure the security of customer data, the API requires authentication for all requests. Developers must provide an API key with each request to authenticate their access.
+<li>
+ Authentication: To ensure the security of customer data, the API requires authentication for all requests. Developers must provide an API key with each request to authenticate their access.
+  </li>
 
-Endpoint Structure: The API is structured around a set of endpoints that map to specific customer data operations. Each endpoint supports a variety of HTTP methods, such as GET, POST, PUT, and DELETE.
+<li>
+  Endpoint Structure: The API is structured around a set of endpoints that map to specific customer data operations. Each endpoint supports a variety of HTTP methods, such as GET, POST, PUT, and DELETE.
+  </li>
 
-Response Formats: The API supports both JSON and XML response formats, allowing developers to choose the format that best suits their needs.
+<li>
+  Response Formats: The API supports both JSON and XML response formats, allowing developers to choose the format that best suits their needs.
+  </li>
 </ol>
 
 <h3>Documentation</h3>
