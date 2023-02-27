@@ -29,13 +29,19 @@
 The documentation is organized into several sections, including:</p>
 
 <ol>
-  Getting Started: This section provides an overview of the API and its features, as well as instructions for obtaining an API key.
+<li>
+ Getting Started: This section provides an overview of the API and its features, as well as instructions for obtaining an API key.
+ </li>
 
-Authentication: This section explains how to authenticate requests to the API using an API key, including sample code snippets in several programming languages.
+<li>
+ Authentication: This section explains how to authenticate requests to the API using an API key, including sample code snippets in several programming languages.
+ </li>
 
-Endpoints: This section provides detailed documentation for each endpoint, including the endpoint URL, HTTP methods supported, request and response formats, and sample code snippets.
+<li>
+ Endpoints: This section provides detailed documentation for each endpoint, including the endpoint URL, HTTP methods supported, request and response formats, and sample code snippets.
+ </li>
 
-Response Formats: This section explains the JSON and XML response formats supported by the API, including examples of response payloads.
+<li>Response Formats: This section explains the JSON and XML response formats supported by the API, including examples of response payloads.</li>
 </ol>
 
 <h3>Conclusion</h3>
